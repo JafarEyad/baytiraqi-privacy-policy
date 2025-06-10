@@ -1,8 +1,6 @@
-# Privacy Policy for Baytiraqi
+# **Effective Date:** June 10, 2025
 
-## **Effective Date:** June 10, 2025
-
-### 1. Introduction
+## 1. Introduction
 
 Baytiraqi (“we,” “us,” or “our”) is a digital real estate platform developed by Swibit Limited on behalf of The Iraqi Real Estate Company. We respect your privacy and are committed to protecting your personal information. This Privacy Policy explains what data we collect, how we use it, with whom we share it, and how you can exercise your rights.
 
